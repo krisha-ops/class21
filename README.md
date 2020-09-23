@@ -1,2 +1,2 @@
-# class21
-created my own liabrary.
+# collisionAlgorithm
+Algorithm to detect collision between two objects
